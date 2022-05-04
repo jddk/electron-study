@@ -1,0 +1,14 @@
+{
+  "name": "electron-study",
+  "version": "1.0.0",
+  "description": "学习electron",
+  "main": "main.js",
+  "author": "jddk",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^18.2.0"
+  }
+}
